@@ -26,7 +26,7 @@ Simply copy the PlasmaByTransfusionMedia.xml into ~/Library/Preferences/WebIde50
 Activation
 ----------
 
-* Mac: Select "Wombat" from "Scheme Name" drop down located in Preferences > IDE Settings > Editor > Colors & Fonts
+* Mac: Preferences > IDE Settings > Editor > Colors & Fonts
 * Windows: Settings > IDE Settings > Editor > Colors & Fonts
 
-Then click the "Apply" button on the same window to activate the theme.
+Select "Plasma By Transfusion Media" from "Scheme Name" dropdown. Then click the "Apply" button on the same window to activate the theme.
